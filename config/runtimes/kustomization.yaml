@@ -24,7 +24,7 @@ images:
 
   - name: mlserver-0
     newName: seldonio/mlserver
-    newTag: "0.5.2"
+    newTag: "1.2.4"
 
   - name: ovms-1
     newName: openvino/model_server
